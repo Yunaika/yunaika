@@ -1,4 +1,4 @@
-### Hi! <img src="https://media.giphy.com/media/BIj5gfmPQ1ECSHSr82/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="100">
 
 <a href="https://www.linkedin.com/in/julia-murova">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
