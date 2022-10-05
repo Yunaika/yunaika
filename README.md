@@ -2,7 +2,7 @@
 
 ## :woman_technologist: About me
 I am Julia, QA Engineer from Irkutsk (Russia).
-- :rocket: I have 3+ years of manual testing experience, also I have some experience in automation testing from Python.
+- :rocket: I have 3+ years of manual testing experience, also I have some experience in automation testing with Python.
 
 - :seedling: Strong skills in establishing QA processes, reporting progress and results to stakeholders.
 
