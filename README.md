@@ -19,6 +19,6 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :seedling: Strong skills in establishing QA processes, reporting progress and results to stakeholders.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JULIA_MUROVA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-murova)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JULIA_IVANOVA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-murova) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JuliaMur)
 
 ---
