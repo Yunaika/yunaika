@@ -1,10 +1,7 @@
-<h2 align="center" ><img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"><br>I'm Julia</a></h2>
-<h3 align="center">QA Engineer from Russia 🇷🇺</h3>
-
----
+<img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"> 
 
 ## :woman_technologist: About me
-I am a QA Engineer from Irkutsk.
+I am Julia, QA Engineer from Irkutsk (Russia).
 - :rocket: I have 3+ years of manual testing experience, also I have some experience in automation testing from Python.
 
 - :seedling: Strong skills in establishing QA processes, reporting progress and results to stakeholders.
@@ -12,8 +9,7 @@ I am a QA Engineer from Irkutsk.
 - :bookmark_tabs: [CV](https://github.com/Yunaika/yunaika/blob/main/media/CV_Ivanova_Julia_QA.pdf)
 
 - :mailbox_with_mail:	How to reach me:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julia-murova"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/JuliaMur"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/julia_murova/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
----
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
