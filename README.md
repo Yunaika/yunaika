@@ -1,5 +1,4 @@
-<h1 align="center">I'm Julia</a> 
-### <img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"></h1>
+<h1 align="center">I'm Julia</a> <img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"></h1>
 <h3 align="center">QA Engineer from Russia 🇷🇺</h3>
 
 <a href="https://www.linkedin.com/in/julia-murova">
