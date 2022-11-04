@@ -20,8 +20,8 @@ I am Julia, QA Engineer from Irkutsk (Russia).
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;    
-  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/docker-plain-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/docker.png" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Allure.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Allure_TO.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;  
