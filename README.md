@@ -27,3 +27,7 @@ I am Julia, QA Engineer from Irkutsk (Russia).
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;  
    <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
 </div>
+<br>
+
+### :world_map: UI, API autotests example :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_ui_and_api_autotests_for_stepik)](https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik)
