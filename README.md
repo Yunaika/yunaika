@@ -6,7 +6,7 @@ I am Julia, QA Engineer from Irkutsk (Russia).
 
 - :seedling: Strong skills in establishing QA processes, reporting progress and results to stakeholders.
 
-- :bookmark_tabs: [CV](cv/CV_Ivanova_Julia_QA.pdf)
+- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia_QA.pdf">CV</a>
 
 - :mailbox_with_mail:	How to reach me:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julia-murova"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/JuliaMur"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/julia_murova/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
