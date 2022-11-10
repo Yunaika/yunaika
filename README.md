@@ -25,13 +25,10 @@ I am Julia, QA Engineer from Irkutsk (Russia).
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/Allure.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
   <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/333/h/32108dd5b6c9c9c3cf4220fe6b2cc7fc.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;  
-   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="Browserstack" width="35" height="35"/>&nbsp;
 </div>
 <br>
 
-### :world_map: UI, API autotests example :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_ui_and_api_autotests_for_stepik)](https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik)
-
-### :world_map: Mobile UI autotests example :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_mobile_autotests_for_yandex_translate)](https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate)
-
+| :world_map: UI, API autotests example :  | :iphone: Mobile UI autotests example : |
+| ------------- | ------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_ui_and_api_autotests_for_stepik)](https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_mobile_autotests_for_yandex_translate)](https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate)  |
