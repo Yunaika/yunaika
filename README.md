@@ -28,6 +28,7 @@ I am Julia, QA Engineer from Irkutsk (Russia).
    <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="Browserstack" width="35" height="35"/>&nbsp;
 </div>
 <br>
+<br>
 
 | :world_map: UI, API autotests example :  | :iphone: Mobile UI autotests example : |
 | ------------- | ------------- |
