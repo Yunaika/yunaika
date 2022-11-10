@@ -1,17 +1,17 @@
 <img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"> 
 
-## :woman_technologist: About me
-I am Julia, QA Engineer from Irkutsk (Russia).
-- :rocket: I have 3+ years of manual testing experience, also I have some experience in automation testing with Python.
+## :woman_technologist: Обо мне
+Меня зовут Юля, я QA Engineer из Иркутска (Россия).
+- :rocket: У меня более 3-х лет опыта ручного тестирования, а также небольшой опыт автотестирования на Python.
 
-- :seedling: Strong skills in establishing QA processes, reporting progress and results to stakeholders.
+- :seedling: Сильные навыки в создании процессов обеспечения качества и тестовой документации.
 
-- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia_QA.pdf">CV</a>
+- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia_QA.pdf">Резюме</a>
 
-- :mailbox_with_mail:	How to reach me:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julia-murova"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/JuliaMur"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/julia_murova/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+- :mailbox_with_mail:	Как меня найти:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julia-murova"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/JuliaMur"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/julia_murova/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты:
 <div>
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/python.webp" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;   
@@ -28,7 +28,8 @@ I am Julia, QA Engineer from Irkutsk (Russia).
    <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="Browserstack" width="35" height="35"/>&nbsp;
 </div>
 <br>
-<br>
+
+### :floppy_disk: Примеры работ:
 
 | :world_map: UI, API autotests example  | :iphone: Mobile UI autotests example |
 | ------------- | ------------- |
