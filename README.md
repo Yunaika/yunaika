@@ -6,7 +6,7 @@
 
 - :seedling: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
 
-- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia_QA.pdf">Резюме</a>
+- :bookmark_tabs: <a target="_blank" href="cv/CV_Ivanova_Julia.pdf">Резюме</a>
 
 - :mailbox_with_mail:	Как меня найти:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julia-murova"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/JuliaMur"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/julia_murova/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
