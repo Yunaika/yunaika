@@ -31,6 +31,5 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: UI, API autotests example  | :iphone: Mobile UI autotests example |
-| ------------- | ------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_ui_and_api_autotests_for_stepik)](https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunaika&repo=project_mobile_autotests_for_yandex_translate)](https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate)  |
+| :world_map: <a target="_blank" href="project_ui_and_api_autotests_for_stepik">UI, API autotests example</a>  | :iphone: <a target="_blank" href= "https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate">Mobile UI autotests example</a> |
+|----------------|---------------|
