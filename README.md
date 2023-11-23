@@ -31,5 +31,5 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="[project_ui_and_api_autotests_for_stepik](https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik#readme)">UI, API autotests example</a>  | :iphone: <a target="_blank" href= "https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate#readme">Mobile UI autotests example</a> |
+| :world_map: <a target="_blank" href="https://github.com/Yunaika/project_ui_and_api_autotests_for_stepik#readme">UI, API autotests example</a>  | :iphone: <a target="_blank" href= "https://github.com/Yunaika/project_mobile_autotests_for_yandex_translate#readme">Mobile UI autotests example</a> |
 |----------------|---------------|
